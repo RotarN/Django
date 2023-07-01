@@ -1,0 +1,9 @@
+*.py[co]
+
+*.sqlite3
+
+*idea*
+
+# macOS system meta file
+.DS_Store
+
