@@ -1,4 +1,4 @@
-## descriere proiect pebtru certificare 
+## descriere proiect pentru certificare 
 
 Ce face proiectul meu:
 -feature 1
